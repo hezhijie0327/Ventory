@@ -1,0 +1,91 @@
+{
+  "auto_install": [
+    {
+      "autosel": 0,
+      "parent": "/Images/Windows",
+      "template": [
+        "/ventoy/script/Windows_10_11/education.xml",
+        "/ventoy/script/Windows_10_11/education_n.xml",
+        "/ventoy/script/Windows_10_11/enterprise.xml",
+        "/ventoy/script/Windows_10_11/enterprise_4_virtual_desktops.xml",
+        "/ventoy/script/Windows_10_11/enterprise_g.xml",
+        "/ventoy/script/Windows_10_11/enterprise_g_n.xml",
+        "/ventoy/script/Windows_10_11/enterprise_n.xml",
+        "/ventoy/script/Windows_10_11/home.xml",
+        "/ventoy/script/Windows_10_11/home_n.xml",
+        "/ventoy/script/Windows_10_11/pro.xml",
+        "/ventoy/script/Windows_10_11/pro_4_workstations.xml",
+        "/ventoy/script/Windows_10_11/pro_4_workstations_n.xml",
+        "/ventoy/script/Windows_10_11/pro_education.xml",
+        "/ventoy/script/Windows_10_11/pro_education_n.xml",
+        "/ventoy/script/Windows_10_11/pro_n.xml"
+      ],
+      "timeout": 15
+    }
+  ],
+  "control": [
+    {
+      "VTOY_DEFAULT_IMAGE": "VTOY_EXIT"
+    },
+    {
+      "VTOY_DEFAULT_KBD_LAYOUT": "QWERTY_USA"
+    },
+    {
+      "VTOY_DEFAULT_MENU_MODE": "1"
+    },
+    {
+      "VTOY_DEFAULT_SEARCH_ROOT": "/Images"
+    },
+    {
+      "VTOY_FILE_FLT_EFI": "0"
+    },
+    {
+      "VTOY_FILE_FLT_IMG": "0"
+    },
+    {
+      "VTOY_FILE_FLT_ISO": "0"
+    },
+    {
+      "VTOY_FILE_FLT_VHD": "0"
+    },
+    {
+      "VTOY_FILE_FLT_VTOY": "0"
+    },
+    {
+      "VTOY_FILE_FLT_WIM": "0"
+    },
+    {
+      "VTOY_FILT_DOT_UNDERSCORE_FILE": "1"
+    },
+    {
+      "VTOY_HELP_TXT_LANGUAGE": "en_US"
+    },
+    {
+      "VTOY_LINUX_REMOUNT": "1"
+    },
+    {
+      "VTOY_MAX_SEARCH_LEVEL": "max"
+    },
+    {
+      "VTOY_MENU_TIMEOUT": "15"
+    },
+    {
+      "VTOY_SECONDARY_BOOT_MENU": "1"
+    },
+    {
+      "VTOY_SECONDARY_TIMEOUT": "15"
+    },
+    {
+      "VTOY_SORT_CASE_SENSITIVE": "1"
+    },
+    {
+      "VTOY_TREE_VIEW_MENU_STYLE": "0"
+    },
+    {
+      "VTOY_VHD_NO_WARNING": "1"
+    },
+    {
+      "VTOY_WIN11_BYPASS_CHECK": "1"
+    }
+  ]
+}
