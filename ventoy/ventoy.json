@@ -76,6 +76,9 @@
       "VTOY_SECONDARY_TIMEOUT": "15"
     },
     {
+      "VTOY_SHOW_PASSWORD_ASTERISK": "1"
+    },
+    {
       "VTOY_SORT_CASE_SENSITIVE": "1"
     },
     {
